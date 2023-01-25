@@ -11,9 +11,9 @@
 -----------------------------------------------------------------
 | examples              |      SOLID      |      NOT SOLID      |
 | :-------------------- | :-------------: | :-----------------: |
-| Single Responsability | [S](SOLID/S.js) | [F](NOT-SOLID/S.js) |
-| Open Closed           | [O](SOLID/O.js) | [L](NOT-SOLID/O.js) |
-| Liskov Substitution   | [L](SOLID/L.js) | [U](NOT-SOLID/L.js) |
+| Single Responsability | [S](SOLID/S.js) | [F](NOT-SOLID/F.js) |
+| Open Closed           | [O](SOLID/O.js) | [L](NOT-SOLID/L.js) |
+| Liskov Substitution   | [L](SOLID/L.js) | [U](NOT-SOLID/U.js) |
 | Interface Segregation | [I](SOLID/I.py) | [I](NOT-SOLID/I.py) |
 | Dependency Inversion  | [D](SOLID/D.js) | [D](NOT-SOLID/D.js) |
 -----------------------------------------------------------------
@@ -41,4 +41,4 @@ A client should never be forced to implement an interface that it doesn’t use,
 
 <h2 id="p05">Dependency Inversion</h2>
 
-States that your classes should depend upon interfaces or abstract classes instead of concrete classes and functions. This makes your classes open to extension, following the open-closed principle.
+States that high level modules should not depend on low level modules, both should depend on abstractions, your classes should depend upon interfaces or abstract classes instead of concrete classes and functions. This makes your classes open to extension, following the open-closed principle.
