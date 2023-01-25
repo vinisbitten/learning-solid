@@ -11,7 +11,7 @@
 -----------------------------------------------------------------
 | examples             |       SOLID     |       NOT SOLID     |
 | --------------------- | :-------------: | :-----------------: |
-| Single Responsability | [S](SOLID/S.ts) | [F](NOT-SOLID/S.ts) |
+| Single Responsability | [S](./SOLID/S.ts) | [F](NOT-SOLID/S.ts) |
 | Open Closed           | [O](SOLID/O.ts) | [L](NOT-SOLID/O.ts) |
 | Liskov Substitution   | [L](SOLID/L.ts) | [U](NOT-SOLID/L.ts) |
 | Interface Segregation | [I](SOLID/I.ts) | [I](NOT-SOLID/I.ts) |
