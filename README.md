@@ -9,13 +9,13 @@
 <div align="center">
 
 -----------------------------------------------------------------
-| examples             |       SOLID     |       NOT SOLID     |
-| --------------------- | :-------------: | :-----------------: |
-| Single Responsability | [S](./SOLID/S.ts) | [F](NOT-SOLID/S.ts) |
-| Open Closed           | [O](SOLID/O.ts) | [L](NOT-SOLID/O.ts) |
-| Liskov Substitution   | [L](SOLID/L.ts) | [U](NOT-SOLID/L.ts) |
-| Interface Segregation | [I](SOLID/I.ts) | [I](NOT-SOLID/I.ts) |
-| Dependency Inversion  | [D](SOLID/D.ts) | [D](NOT-SOLID/D.ts) |
+| examples              |      SOLID      |      NOT SOLID      |
+| :-------------------- | :-------------: | :-----------------: |
+| Single Responsability | [S](SOLID/S.js) | [F](NOT-SOLID/S.js) |
+| Open Closed           | [O](SOLID/O.js) | [L](NOT-SOLID/O.js) |
+| Liskov Substitution   | [L](SOLID/L.js) | [U](NOT-SOLID/L.js) |
+| Interface Segregation | [I](SOLID/I.py) | [I](NOT-SOLID/I.py) |
+| Dependency Inversion  | [D](SOLID/D.js) | [D](NOT-SOLID/D.js) |
 -----------------------------------------------------------------
 
 </div>
